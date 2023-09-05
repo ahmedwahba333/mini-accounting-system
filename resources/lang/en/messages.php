@@ -1,0 +1,106 @@
+<?php
+
+return [
+    // direction
+    "dir" => "dir",
+    "lang" => "lang",
+    "language" => "language",
+
+    // home page
+    "Accounting System" => "Accounting System",
+    "Items" => "Items",
+    "Customers" => "Customers",
+    "Sales" => "Sales",
+    "Dashboard" => "Dashboard",
+    "Logout" => "Logout",
+
+    // items files
+    "Name" => "Name",
+    "Details" => "Details",
+    "Price" => "Price",
+    "Created_At" => "Created_At",
+    "Actions" => "Actions",
+    "Add New Item" => "Add New Item",
+    "go to archive" => "go to archive",
+    "archive" => "archive",
+    "Edit" => "Edit",
+    "Yes!" => "Yes!",
+    "Cancel" => "Cancel",
+    "New Product" => "New Product",
+    "Please Enter The Information Below" => "Please Enter The Information Below",
+    "currency" => "currency",
+    "Saudi riyal SAR" => "Saudi riyal SAR",
+    "Egyptian pound EGP" => "Egyptian pound EGP",
+    "United States dollar USD" => "United States dollar USD",
+    "British pound sterling GBP" => "British pound sterling GBP",
+    "Russian rouble RUB" => "Russian rouble RUB",
+    "Chinese Yuan CNY" => "Chinese Yuan CNY",
+    "Add Product" => "Add Product",
+    "Edit Item" => "Edit Item",
+    "Items Archive" => "Items Archive",
+    "Filter" => "Filter",
+
+
+    // archive files
+    "back to Items" => "back to Items",
+    "Archived" => "Archived",
+    "Not Archived" => "Not Archived",
+    "Restore" => "Restore",
+    "Delete" => "Delete",
+    "Display All" => "Display All",
+    "Deleted_at" => "Deleted_at",
+
+
+    // customer files
+    "email" => "email",
+    "phone_number" => "phone_number",
+    "address" => "address",
+    "city" => "city",
+    "state" => "state",
+    "country" => "country",
+    "posCode" => "posCode",
+    "company" => "company",
+    "cPerson" => "cPerson",
+    "Customers Archive" => "Customers Archive",
+    "Add New Customer" => "Add New Customer",
+    "ُEdit Customer" => "ُEdit Customer",
+
+    // archive customers page
+    "back to customers" => "back to customers",
+
+
+    // sales files
+    "Num" => "Num",
+    "Invoice Date" => "Invoice Date",
+    "Customer" => "Customer",
+    "Deleted Customer" => "Deleted Customer",
+    "Status" => "Status",
+    "finished" => "finished",
+    "pending" => "pending",
+    "rejected" => "rejected",
+    "reference number#" => "reference number#",
+    "View" => "View",
+    "Change" => "Change",
+    "has been updated" => "has been updated",
+    "customer name" => "customer name",
+    "phone" => "phone",
+    "Customer Deleted" => "Customer Deleted",
+    "sale_date" => "sale_date",
+    "shipping_address" => "shipping_address",
+    "shipping_price" => "shipping_price",
+    "item name" => "item name",
+    "quantity" => "quantity",
+    "details" => "details",
+    "unit price" => "unit price",
+    "tax" => "tax",
+    "discount" => "discount",
+    "total_price" => "total_price",
+    "Item Deleted" => "Item Deleted",
+    "cant print" => "cant print",
+    "Create Sale" => "Create Sale",
+    "Select Status" => "Select Status",
+    "Download" => "Download",
+    "New invoice" => "New invoice",
+    "Select Customer" => "Select Customer",
+    "note" => "note",
+];
